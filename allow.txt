@@ -1,2 +1,3 @@
 v1.wzip.download
 www.mediafire.com
+sessionserver.mojang.com
