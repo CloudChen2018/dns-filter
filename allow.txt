@@ -1,3 +1,4 @@
 v1.wzip.download
 www.mediafire.com
 i18n.relive.cc
+auth.relive.cc
