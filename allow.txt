@@ -1,5 +1,5 @@
 v1.wzip.download
 www.mediafire.com
 *.relive.cc
+*.ptt.cc
 reurl.cc
-www.ptt.cc
