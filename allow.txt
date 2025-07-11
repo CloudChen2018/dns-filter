@@ -2,3 +2,4 @@ v1.wzip.download
 www.mediafire.com
 *.relive.cc
 reurl.cc
+www.ptt.cc
