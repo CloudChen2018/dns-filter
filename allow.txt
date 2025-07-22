@@ -1,5 +1,6 @@
 v1.wzip.download
 www.mediafire.com
+*.e-hentai.org
 *.relive.cc
 *.ptt.cc
 reurl.cc
