@@ -6,3 +6,4 @@ reurl.cc
 soutubot.moe
 h5api.m.taobao.com
 graph.facebook.com
+rgom10-asus-en.url.trendmicro.com
