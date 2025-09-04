@@ -1,2 +1,5 @@
 0.0.0.0 nlserver.ipfri.com
 0.0.0.0 universalstore.streaming.mediaservices.windows.net
+0.0.0.0 vos.line-scdn.net
+0.0.0.0 linecrs.line-scdn.net
+0.0.0.0 pagepoker.line-scdn.net
