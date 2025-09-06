@@ -4,6 +4,7 @@ www.mediafire.com
 *.ptt.cc
 reurl.cc
 soutubot.moe
+nhentai.net
 h5api.m.taobao.com
 graph.facebook.com
 rgom10-asus-en.url.trendmicro.com
