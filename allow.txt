@@ -2,6 +2,7 @@ v1.wzip.download
 www.mediafire.com
 *.relive.cc
 *.ptt.cc
+ptt.cc
 reurl.cc
 soutubot.moe
 nhentai.net
