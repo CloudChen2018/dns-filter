@@ -1,4 +1,5 @@
 v1.wzip.download
+v1.wzip.date
 www.mediafire.com
 *.relive.cc
 *.ptt.cc
