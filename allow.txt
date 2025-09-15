@@ -18,6 +18,9 @@ zh.stripchat.com
 stripcdn.com
 assets.strpst.com
 pxl.stripchat.com
+static-cdn.strpst.com
+img.doppiocdn.com
+edge-hls.doppiocdn.com
 edge-hls.doppiocdn.org
 edge-hls.doppiocdn.live
 media-hls.doppiocdn.org
