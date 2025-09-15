@@ -24,6 +24,7 @@ static-cdn.strpst.com
 img.doppiocdn.com
 edge-hls.doppiocdn.com
 edge-webrtc.doppiocdn.com
+time.doppiocdn.com
 edge-hls.doppiocdn.org
 media-hls.doppiocdn.org
 img.doppiocdn.org
