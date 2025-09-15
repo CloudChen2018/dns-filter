@@ -20,4 +20,5 @@ assets.strpst.com
 pxl.stripchat.com
 edge-hls.doppiocdn.org
 edge-hls.doppiocdn.live
+media-hls.doppiocdn.org
 img.doppiocdn.org
