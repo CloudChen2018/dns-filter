@@ -16,12 +16,15 @@ a.nel.cloudflare.com
 stripchat.com
 zh.stripchat.com
 stripcdn.com
+img.strpst.com
 assets.strpst.com
 pxl.stripchat.com
+websocket-sp-v6.stripchat.com
 static-cdn.strpst.com
 img.doppiocdn.com
 edge-hls.doppiocdn.com
+edge-webrtc.doppiocdn.com
 edge-hls.doppiocdn.org
-edge-hls.doppiocdn.live
 media-hls.doppiocdn.org
 img.doppiocdn.org
+edge-hls.doppiocdn.live
