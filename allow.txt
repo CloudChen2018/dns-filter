@@ -12,6 +12,7 @@ graph.facebook.com
 rgom10-asus-en.url.trendmicro.com
 mega.nz
 *.mega.co.nz
+a.nel.cloudflare.com
 stripchat.com
 zh.stripchat.com
 stripcdn.com
