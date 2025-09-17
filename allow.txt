@@ -14,6 +14,7 @@ mega.nz
 *.mega.co.nz
 a.nel.cloudflare.com
 rapidgator.net
+*.rapidgator.net
 stripchat.com
 zh.stripchat.com
 stripcdn.com
