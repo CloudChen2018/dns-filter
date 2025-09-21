@@ -14,6 +14,7 @@ mega.nz
 *.mega.co.nz
 a.nel.cloudflare.com
 mhc-ajax-us-s2.myhomescreen.tv
+mhc-xpana-us-s2.myhomescreen.tv
 rapidgator.net
 *.rapidgator.net
 stripchat.com
