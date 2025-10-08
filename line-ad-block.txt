@@ -1,0 +1,26 @@
+# LINE 廣告與追蹤封鎖名單 (for AdGuard / Pi-hole / Hosts)
+# 更新日期：2025-10-08
+# 來源：社群分析 + 抓包驗證
+
+# === 廣告主機 ===
+0.0.0.0 ad.line-scdn.net
+0.0.0.0 adx.line-scdn.net
+0.0.0.0 ad-api.line.me
+0.0.0.0 ad.line-apps.com
+
+# === 廣告資料與追蹤 API ===
+0.0.0.0 sch.line.me
+0.0.0.0 analytics.line-apps.com
+0.0.0.0 tracking.line-apps.com
+0.0.0.0 events.line-apps.com
+0.0.0.0 track.line.me
+
+# === 特定廣告來源 API ===
+0.0.0.0 api.line.me/ads
+0.0.0.0 buy.line.me/api/graphql
+0.0.0.0 legy.line-apps.com
+
+# === 測試中 (部分版本使用的 ad CDN) ===
+0.0.0.0 adcdn.line-apps.com
+0.0.0.0 adimg.line.me
+0.0.0.0 adx-assets.line-scdn.net
