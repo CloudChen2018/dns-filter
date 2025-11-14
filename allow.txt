@@ -33,3 +33,8 @@ edge-hls.doppiocdn.org
 media-hls.doppiocdn.org
 img.doppiocdn.org
 edge-hls.doppiocdn.live
+
+# Minecraft
+sessionserver.mojang.com
+api.minecraftservices.com
+api.mojang.com
