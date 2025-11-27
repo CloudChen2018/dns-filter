@@ -38,3 +38,6 @@ edge-hls.doppiocdn.live
 sessionserver.mojang.com
 api.minecraftservices.com
 api.mojang.com
+
+# M$
+g.live.com
