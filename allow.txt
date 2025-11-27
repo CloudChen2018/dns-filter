@@ -41,3 +41,11 @@ api.mojang.com
 
 # M$
 g.live.com
+xboxlive.com
+user.auth.xboxlive.com
+xsts.auth.xboxlive.com
+xboxlive.com
+xboxservices.com
+login.live.com
+device.auth.xboxlive.com
+title.mgt.xboxlive.com
