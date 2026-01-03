@@ -49,3 +49,7 @@ xboxservices.com
 login.live.com
 device.auth.xboxlive.com
 title.mgt.xboxlive.com
+
+# VPN
+www.vpngate.net
+vpngate.net
