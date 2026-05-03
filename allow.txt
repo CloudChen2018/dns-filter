@@ -14,25 +14,7 @@ mega.nz
 *.mega.co.nz
 a.nel.cloudflare.com
 nyaa.si
-*.myhomescreen.tv
-rapidgator.net
-*.rapidgator.net
-stripchat.com
-zh.stripchat.com
-stripcdn.com
-img.strpst.com
-assets.strpst.com
-pxl.stripchat.com
-websocket-sp-v6.stripchat.com
-static-cdn.strpst.com
-img.doppiocdn.com
-edge-hls.doppiocdn.com
-edge-webrtc.doppiocdn.com
-time.doppiocdn.com
-edge-hls.doppiocdn.org
-media-hls.doppiocdn.org
-img.doppiocdn.org
-edge-hls.doppiocdn.live
+share.google
 
 # Minecraft
 sessionserver.mojang.com
