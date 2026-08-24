@@ -38,4 +38,10 @@ vpngate.net
 
 tsrs.framer.website
 
+# bt
 *.nyaa.net
+nyaa.tracker.wf
+open.stealth.si
+tracker.opentrackr.org
+exodus.desync.com
+tracker.torrent.eu.org
