@@ -39,8 +39,9 @@ vpngate.net
 tsrs.framer.website
 
 # bt
-*.nyaa.net
+nyaa.net
 nyaa.tracker.wf
+*.nyaa.net
 open.stealth.si
 tracker.opentrackr.org
 exodus.desync.com
