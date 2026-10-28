@@ -108,3 +108,15 @@
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 browser-intake-datadoghq.com
+
+
+# ⚠️ LINE 桌面版側欄 AD 候選網域（依 AdGuard Home 未封鎖查詢筆數由少至多）
+# 注意：目前僅確認這些網域曾被查詢，尚未證實是廣告來源。
+# 封鎖後若聊天圖片、貼圖或其他 LINE 功能異常，請移除此區對應項目。
+0.0.0.0 obs-jp2-addr-ds.line-apps.com      # 2 筆
+# 0.0.0.0 legy-backup.line-apps.com          # 5 筆
+# 0.0.0.0 obs-tw.line-apps.com               # 5 筆
+# 0.0.0.0 obs.line-scdn.net                  # 8 筆
+# 0.0.0.0 stickershop.line-scdn.net          # 9 筆
+# 0.0.0.0 lan.line.me                        # 11 筆
+# 0.0.0.0 obs.line-apps.com                  # 32 筆
